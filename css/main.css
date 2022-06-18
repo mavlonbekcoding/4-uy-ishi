@@ -1,0 +1,175 @@
+.site-header-top {
+    width: 1440px;
+    height: 105px;
+    left: 0px;
+    top: 0px;
+    
+    background: #F6F6F6;
+}
+.site-header-top-page-img {
+    width: 264px;
+    height: 28px;
+    left: 126px;
+    top: 39px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #7296EE
+}
+.site-header-top-page-list-item-text {
+    width: 69px;
+    height: 19px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2959CE;
+}
+
+.site-header-top-span-list {
+    position: absolute;
+    width: 70px;
+    height: 36px;
+    left: 1136px;
+    top: 35px;
+    background: #DCE6FF;
+    border-radius: 39px;
+}
+.site-header-top-span-text-uz {
+    position: absolute;
+    width: 16px;
+    height: 12px;
+    left: 1146px;
+    top: 47px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 12px;
+    text-align: center;
+    color: #000000;
+    
+}
+.site-headere-top-span-text-ru{
+    position: absolute;
+    width: 16px;
+    height: 15px;
+    left: 1177px;
+    top: 46px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #A6A6A6;
+    
+}
+.site-header-bottom-list-item {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #7F7F7F;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.site-main-page-aside {
+    position: absolute;
+    width: 1200px;
+    height: 128px;
+    left: 120px;
+    top: 216px;
+    background: url(optimize.png);
+    border-radius: 8px;
+}
+.site-main-section-page-div-list-item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 17px 15px;
+    gap: 15px;
+    position: absolute;
+    width: 393px;
+    height: 382px;
+    left: 120px;
+    top: 394px;
+    background: #F6F6F6;
+    border-radius: 15px;
+    
+}
+.site-main-section-page-div-list-item-heading-text {
+    width: 358px;
+    height: 78px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.site-main-section-page-div-list-item-text {
+    width: 346px;
+    height: 44px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.site-main-section-page-div-list-item-image {
+    width: 359px;
+    height: 165px;
+    background: url(image.png);
+    border-radius: 10px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.site-main-section-div-bottom {
+    position: absolute;
+    width: 140px;
+    height: 14px;
+    left: 47px;
+    top: 350px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #5E5F61;
+    
+}
+.site-main-section-div-bottom-img {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 17px;
+    top: 347px;
+    background: url(image.png);
+    border-radius: 5px;
+}
+.site-main-section-div-bottom-text {
+    position: absolute;
+    width: 140px;
+    height: 14px;
+    left: 47px;
+    top: 350px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #5E5F61;
+}
